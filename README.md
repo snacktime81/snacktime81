@@ -1,5 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snacktime81&show_icons=true&theme=buefy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snacktime81&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snacktime81&layout=compact&exclude_repo=snacktime81.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **snacktime81/snacktime81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
