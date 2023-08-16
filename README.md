@@ -1,4 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snacktime81&show_icons=true&theme=buefy)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snacktime81&layout=compact&exclude_repo=snacktime81.github.io&hide=scss,css )](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
