@@ -2,7 +2,7 @@
 <h2>Contact</h2>
 <div>
   <a href="https://snack-and-time.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-white?style=flat-square&logo=Tistory&logoColor=black"/></a>
-  <a href="mailto:tth8181@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-white?style=flat-square&logo=Gmail&logoColor=black"/></a>  
+  <a href="mailto:tth8181@gmail.com" target="_blank"><img src="https://img.shields.io/badge/tth8181@gmail.com-white?style=flat-square&logo=Gmail&logoColor=black"/></a>  
   <a href="https://www.instagram.com/t.t_hyeon/" target="_blank"><img src="https://img.shields.io/badge/Insta-white?style=flat-square&logo=instagram&logoColor=black"/></a>
 
 
