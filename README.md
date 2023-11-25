@@ -14,13 +14,13 @@
   <img src="https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=javascript&logoColor=#F7DF1E"/>
   <img src="https://img.shields.io/badge/python-white?style=flat-square&logo=python&logoColor=#3776AB"/>
   <img src="https://img.shields.io/badge/TypeScript-white?style=flat-square&logo=TypeScript&logoColor=#3178C6""/>
-  <img src="https://img.shields.io/badge/TypeScript-white?style=flat-square&logo=TypeScript&logoColor=#3178C6""/>
+  <img src="https://img.shields.io/badge/C++-white?style=flat-square&logo=cplusplus&logoColor=blue""/>
 </div>
 <div>
   <img src="https://img.shields.io/badge/Node.js-white?style=flat-square&logo=nodedotjs&logoColor=#339933"/>
   <img src="https://img.shields.io/badge/Express-white?style=flat-square&logo=express&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-white?style=flat-square&logo=mysql&logoColor=#4479A1"/>
-  <img src="https://img.shields.io/badge/Jest-white?style=flat-square&logo=Jest&logoColor=#C21325"/>
+  <img src="https://img.shields.io/badge/Jest-white?style=flat-square&logo=Jest&logoColor=black"/>
 </div>
 <br>
 
