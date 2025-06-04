@@ -7,9 +7,6 @@
 </div>
 
 <h2> Tech Stack </h2>
-
-<div id="tech_stack">
-
   <div id='lang'>
     <img src="https://img.shields.io/badge/Java-C21325?style=flat-square&logo=Java&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -47,9 +44,10 @@
  
  <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snacktime81&layout=compact&exclude_repo=snacktime81.github.io&hide=scss,css" height="50%"></a> --!>
  <img src="https://github-readme-stats.vercel.app/api?username=snacktime81&show_icons=true&hide=stars">
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snacktime81&theme=default\&hide=contribs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snacktime81&hide=contribs)
 </div>
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snacktime81&theme=default\&hide=contribs) --!>
+
 I'm always studying~
 
 
